@@ -14,6 +14,7 @@ For more information please visit [this website](https://help.github.com/en/gith
 
 
 
+
 ## Headings
 
 Lets talk about headings. Well it's actucally very simple *more number of hashes smaller the heading you get !!* yes and the hashes limit to maximum of 6 hashes.
@@ -25,7 +26,6 @@ Lets talk about headings. Well it's actucally very simple *more number of hashes
 ##### five hash
 ###### six hash
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 
 
@@ -62,6 +62,7 @@ the following will be some task list:
 
 
 
+
 ## Code Time
 
 ```
@@ -69,3 +70,19 @@ function clear(){
         document.form.textview.value="";
     }
 ```
+
+
+
+
+## Tables
+
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
