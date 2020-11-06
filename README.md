@@ -6,10 +6,10 @@ As rightly said by someone once upon a time:
 > Practice makes a man perfect
 
 The following is the index List
-- [Headings](https://github.com/tanishabisht/demo1#Headings)
-- [List](https://github.com/tanishabisht/demo1#List)
-- [Code Time](https://github.com/tanishabisht/demo1#Code-Time)
-- [Tables](https://github.com/tanishabisht/demo1#Tables)
+- [Headings](https://github.com/tanishabisht/Markdown-Basics#Headings)
+- [List](https://github.com/tanishabisht/Markdown-Basics#List)
+- [Code Time](https://github.com/tanishabisht/Markdown-Basics#Code-Time)
+- [Tables](https://github.com/tanishabisht/Markdown-Basics#Tables)
 
 For more information please visit [this website](https://help.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github).
 
